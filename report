@@ -1,0 +1,68 @@
+REPORT TRAINING
+Reported by: Nguyen Thanh Tung (Tunie)
+Employee ID: V3242663
+1. Introduction of department
+1.1. ME 	process
+This department responsible for quality of products and how to produce them effectively. Those problems link to mechanical such as Fixture, screw force, press force,...
+1.2. PE
+This department responsible for function of products. They analyze the factors effect to function of products such as material, opration of OPs, ESP and so on that can be destroy devies
+1.3. RD
+RD engineer responsible for researching and developing about products. They analize mistake of products, optimize the process to enhance yeild and quality of items.
+1.4. SI
+SI is a large group of oporation person, line leaders, leaders, manages who responsible for oporate and produce the product.
+2. The symbols and terminologies
+Word	Description
+NPI	New production introduction - These are products currently undergoing testing within a closed, highly confidential process for both the company and its clients
+SMT	SMT (Surface Mount Technology), also known as surface-mount technology, differs from the traditional through-hole method. SMT allows electronic components to be mounted directly onto the surface of a printed circuit board (PCB) by soldering them in a hot solder bath."
+SCBA	SCBA is a circuit board that has had components assembled onto the SMT board
+FATP	FA- final assemble, T – testing, P – packing
+IPxy	The standard IP rating for water and dust resistance is an international classification system known as the Ingress Protection (IP) Rating. It is used to define the level of protection a device has against the intrusion of dust and water. A standard IP code is formatted as IPXY, where:
+•	X: Level of protection against solid particles (from 0 to 6).
+•	Y: Level of protection against water (from 0 to 9)
+4M – 1E	Man – Machine – Material – Method – Environment
+Strain gauge	Used to measure the strain of a material when subjected to force, weight, or pressure. Strain leads to geometric deformation, which causes a change in electrical resistance — this change can be measured using an electrical circuit.
+Paper test	Used to check the force applied to a product during processing, indicating the pressure distribution on the product's surfaces through color patterns shown on paper.
+Copy tooling study	Copy Tooling Study is the process of analyzing and evaluating in order to copy or replicate a production mold/tooling from an existing design, sample, or current supplier. The goal is to produce the same product with equivalent quality, but using a new set of tools at a different location or with a new supplier
+CPK/GRR	Cpk (Process Capability Index) is a metric used to evaluate how well a manufacturing process can produce products within specified technical tolerance limits (spec limits).
+Cpk – Practical Meaning:
+•	< 1.0  Process is unstable; many products fall outside the tolerance limits.
+•	= 1.0  Process is just adequate; performance is right at the edge of spec limits.
+•	≥ 1.33 Good process; product variation remains well within tolerance limits.
+•	≥ 1.67 Very good process; suitable for high-requirement industries (e.g., automotive, medical).
+•	≥ 2.0  Excellent process; extremely low risk of defective products.
+BLM issue	This defect involves foreign particles on the camera, typically dust
+Oxy issue	This is a defect that affects the camera's functionality by causing decentering along its optical axis or coordinate balance. The root cause may stem from the assembly process or from the input materials.
+REL products	REL products, or reliability products, are units sent to customers for testing under various environmental conditions such as temperature, light, water, salt, snow, and drop impact. These tests are conducted to evaluate the product’s reliability and performance under harsh conditions. The purpose is to identify any necessary improvements before the product proceeds to the next development stage.
+ 
+3. Learning and training activities at the company
+3.1. Tasks Assigned
+•	Torque study
+•	Strain gauge
+•	Care main line Hapuka
+•	Test leak air Ipx1 Hapuka and Hoki
+•	REL test Hoki
+3.2. Conducting Torque Study
+Job Description:
+The torque study is performed to determine the safe torque limit for screw tightening on products. When a screw is driven into a hole to form threads, there is a certain torque threshold. Beyond this threshold, the threads may be damaged, leading to failure in the fastening process. Therefore, this test is necessary to identify the safe torque limit.
+Method:
+The test is carried out 32 times at each screw location that needs evaluation. Torque values are measured using a computer system, starting from the point where thread formation begins until the threads are destroyed. All measured values are recorded. The average value of all test iterations is calculated, followed by computing the average between the lowest and the highest torque values. The resulting value is defined as the safe torque limit.
+3.3. Strain Gauge Measurement
+Job Description:
+This process involves measuring the stress (tensor) on the circuit board. The results indicate the mechanical stability of the board when subjected to external forces, such as those generated during pressing or screw fastening.
+Method:
+Based on the principle of stress transmission across surfaces, external forces cause changes in stress, which result in the movement of electrons and protons—ultimately producing electrical resistance. Utilizing this phenomenon, strain gauge measurement is performed by grinding the PCB surface until the copper layer is exposed. Copper wires are then attached to four positions around components such as chips. The assembly process is carried out as usual while simultaneously using a strain gauge meter to measure the strain. The results are evaluated against predefined standards to determine whether they meet the required criteria.
+3.4. Main Line Monitoring
+Job Description:
+This task involves monitoring and supervising the operation of the production line. The purpose is to assess whether the production process is running efficiently and to identify any shortcomings or areas that need improvement for better performance.
+Method:
+The monitoring is conducted through direct observation and evaluation of product quality, as well as customer requirements on the production line. In addition, any issues or inefficiencies are recorded in writing and through video documentation for review and proposal of necessary improvements to the line.
+3.5. Air Leak Position Inspection (IPx)
+Job Description:
+This task involves inspecting the air leak positions on defective products to determine where the leakage occurs. The goal is to identify the root causes for improvement and development, ensuring the final products meet the highest quality standards before reaching customers.
+Method:
+For units that fail at the IPx station, it indicates air leakage is present. The inspection process involves using clay to sequentially seal the technical gaps generated during assembly. This continues until the leak is isolated and the exact location of the air leak is found. In some cases, air leakage may originate from a single point or from multiple combined areas on the defective product.
+3.6. REL Product Handling
+Description:
+This process involves handling products sent by the customer for reliability testing under extreme conditions such as temperature, water exposure, drop tests, salt spray, snow, etc. After testing, the customer returns the products for further functional testing and analysis of their post-test condition.
+Method:
+First, verify the quantity of units received from the customer. For units subjected to drop tests, perform an IPX2 test to evaluate whether the impact has affected air-tightness. Functional testing of other components is handled by a different team. Then proceed with the teardown process, capturing images for documentation. These images and findings are included in the report sent back to the customer regarding the tested products.
